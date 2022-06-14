@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cordillera Blanca",
+        "stock": 15,
+        "precio": 1500,
+        "descuento": 0.85,
+        "categoria": "B&W",
+        "img": "img/cordillera-blanca.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Ventana de Atacama",
+        "stock": 15,
+        "precio": 1500,
+        "descuento": 0.95,
+        "categoria": "B&W",
+        "img": "img/atacama-ventana.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Glaciar Pastoruri",
+        "stock": 15,
+        "precio": 2000,
+        "descuento": 0.8,
+        "categoria": "B&W",
+        "img": "img/glaciar-pastoruri.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Reflejo de Montaña",
+        "stock": 15,
+        "precio": 1000,
+        "descuento": 0.9,
+        "categoria": "B&W",
+        "img": "img/montaña-arroyo.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Montaña de Huaraz",
+        "stock": 15,
+        "precio": 1500,
+        "descuento": 0.85,
+        "categoria": "B&W",
+        "img": "img/montaña-reflejo.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Recuerdos de verano",
+        "stock": 15,
+        "precio": 1500,
+        "descuento": 0.85,
+        "categoria": "B&W",
+        "img": "img/recuerdos-verano.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Templo Bayon",
+        "stock": 15,
+        "precio": 1500,
+        "descuento": 0.85,
+        "categoria": "color",
+        "img": "img/bayon-temple.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Cisne",
+        "stock": 15,
+        "precio": 1500,
+        "descuento": 0.95,
+        "categoria": "color",
+        "img": "img/cisne.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Festejo del Dragón",
+        "stock": 15,
+        "precio": 2000,
+        "descuento": 0.8,
+        "categoria": "color",
+        "img": "img/dragon-chino.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Jerusalem",
+        "stock": 15,
+        "precio": 1000,
+        "descuento": 0.9,
+        "categoria": "color",
+        "img": "img/jerusalem.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Kuang-Si",
+        "stock": 15,
+        "precio": 1500,
+        "descuento": 0.85,
+        "categoria": "color",
+        "img": "img/kuang-si.jpg"
+    }
+]

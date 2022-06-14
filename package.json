@@ -1,0 +1,11 @@
+{
+  "name": "js-coderhouse",
+  "version": "0.1.0",
+  "description": "Pequeño e-commerce de fotografías propias. Proyecto final del curso de Javascript en Coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matías Szostak",
+  "license": "ISC"
+}
